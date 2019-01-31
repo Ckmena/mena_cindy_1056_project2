@@ -1,1 +1,3 @@
-# mena_cindy_1056_project2
+# Web Typography
+## Styling text on the web
+### 02_Project2_02/a
